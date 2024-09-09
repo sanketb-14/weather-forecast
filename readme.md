@@ -1,4 +1,5 @@
 # Weather Forecast Web Application
+## link - https://weather-forecast-sanket.vercel.app/
 
 This web application provides users with current weather information and a 5-day forecast for any city or their current location. It features a clean, responsive design and uses the OpenWeatherMap API to fetch weather data.
 
@@ -22,7 +23,7 @@ This web application provides users with current weather information and a 5-day
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.sanketb_14/weather-forecast.git
+   git clone https://github.sanketb-14/weather-forecast.git
    ```
 
 2. Navigate to the project directory:
